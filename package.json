@@ -17,7 +17,7 @@
 	"author": "rektide de la faye",
 	"license": "X11",
 	"dependencies": {
-		"main-routine-with-files": "^1.0.3",
+		"main-routine-with-files": "^1.0.4",
 		"mz": "^2.6.0"
 	}
 }
