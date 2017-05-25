@@ -1,0 +1,23 @@
+{
+	"name": "json2es6m",
+	"version": "1.0.0",
+	"description": "",
+	"main": "json2es6m.js",
+	"bin": {
+		"json2es6m": "./json2es6m.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/json2es6m"
+	},
+	"keywords": [],
+	"author": "rektide de la faye",
+	"license": "X11",
+	"dependencies": {
+		"main-routine-with-files": "^1.0.3",
+		"mz": "^2.6.0"
+	}
+}
